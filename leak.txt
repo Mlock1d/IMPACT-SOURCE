@@ -1,0 +1,9 @@
+Hello people of the pasting scene, today i will be leaking all of impact's sources and here they are
+
+https://gofile.io/d/T3ZSXg
+Includes
+-impactv13
+-versions before v13
+-impactv15
+-lib used
+-new EFI option
